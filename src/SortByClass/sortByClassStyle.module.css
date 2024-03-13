@@ -1,0 +1,23 @@
+
+
+
+buttons:hover {
+    background-color: rgb(167, 188, 212);
+}
+
+/* input:hover{
+    background-color: aqua;
+} */
+.entryFormStyle{
+    background-color: bisque;
+    min-width: none;
+    display: inline-block
+    
+}
+
+.updatefocus:hover {
+    background-color: orchid
+}
+input:hover{
+    background-color: aqua;
+}

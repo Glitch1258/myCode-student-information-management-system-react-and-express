@@ -1,0 +1,52 @@
+.dataElementStyles {
+    display: inline-block;
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, Helvetica, ;
+    background-color: bisque;
+    min-width: 12%;
+}
+
+.dataElementHeadingStyles {
+    margin: 1px;
+    font-family: Arial, Helvetica, ;
+}
+
+input {
+    margin: 5px;
+    
+}
+
+.inputAreabuttons {
+    margin: 5px;
+    background-color: white;
+}
+
+.dataElementTextStyle {
+    /*background-color: yellow;*/
+    /*max-width: 20%;*/
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    /*text-align: center;*/
+
+}
+
+.dataElementHeadingStyle {
+    display: inline-block;
+    margin: 5px,
+}
+
+button:hover {
+    background-color:  rgb(167, 188, 212);
+}
+.dataElementStyles:hover{
+    background-color: yellow;
+}
+input:hover{
+    background-color: aqua;
+}
+p{
+    display: inline-block;
+}
